@@ -1,5 +1,5 @@
 # PropertyAnimator
 
 <p align="center">
-<img src="images/viper-diagram.png" width="811" title="VIPER Architecture">
+<img src="resources/view_property_animator_demo_01.gif">
 </p>
